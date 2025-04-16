@@ -3,7 +3,7 @@
 A project where I modelled, simulated and implemented an advanced multivariable controller for a real-world helicopter system.
 
 ## Technologies
-MATLAB,Simulink, NI myDAQ, LabVIEW
+MATLAB, Simulink, NI myDAQ, LabVIEW
 ## Installation
 1. Ensure MATLAB is installed, as well as the  **Control Systems Toolbox, Data Acquisition Toolbox, Data acquisition toolbox support package for National Instruments NI-DAQmx devices, SIMULINK Real-Time Toolbox, Aerospace Blockset and Real-time kernel**
 2. Clone the repository:
