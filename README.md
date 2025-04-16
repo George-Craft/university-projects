@@ -6,7 +6,7 @@ This repository contains a collection of my university coursework and engineerin
 
 ### 1. Smart Burglar Alarm System
 **Technologies:** C++, MATLAB, Arduino MEGA
----
+
 A Group Project where we combined software and hardware to create a fully functioning burglar alarm system with multiple settings. We followed strict Systems engineering principles throughout this project.
 
 
