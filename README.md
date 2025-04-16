@@ -10,10 +10,10 @@ This repository contains a collection of my university coursework and engineerin
 A Group Project where we combined software and hardware to create a fully functioning burglar alarm system with multiple settings. We followed strict Systems engineering principles throughout this project.
 
 
-### 2. Rapid Control Prototyping of a Helicopter
+### 2. Rapid Control Prototyping of a Helicopter Model
 **Technologies:** MATLAB,Simulink, NI myDAQ, LabVIEW
 
-Developed and tested control strategies for a helicopter pitch and elevation model. Designed both simulated and real-world closed-loop control systems using MATLAB/Simulink, with system identification and real-time implementation.
+Developed and tested control strategies for a helicopter pitch, elevation and travel model. Designed simulated and real-world closed-loop control systems using MATLAB/Simulink, with system identification and real-time implementation.
 
 
 ### 3. Machine Learning Regression Project
