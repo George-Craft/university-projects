@@ -2,7 +2,8 @@
 
 ## Overview
 This project utilises machine learning techniques to predict household energy consumption, aiming to enhance energy management efficiency.
-
+## Technologies
+MATLAB
 ## Installation
 1. Ensure MATLAB is installed, as well as the **curve fitting toolbox** and the **statistics toolbox**.
 2. Clone the repository:
