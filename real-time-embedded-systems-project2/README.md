@@ -2,7 +2,8 @@
 
 ## Overview
 A multifunction embedded system designed for the STM32F407 microcontroller, developed using Keil µVision. This project demonstrates task scheduling, multithreading, and real-time behavior using the CMSIS-RTOS RTX framework.
-
+## Technologies
+C++, STM32, Keil uVision
 ## Installation
 1. Ensure Keil MicroVision is installed
 2. Clone the repository:
