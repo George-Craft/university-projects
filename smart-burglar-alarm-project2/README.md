@@ -4,7 +4,7 @@ A Group Project where we combined software and hardware to create a fully functi
 
 ## Installation
 1. Ensure MATLAB and Arduino IDE are installed.
-2. 2. Clone the repository:
+2.  Clone the repository:
    ```bash
    git clone https://github.com/George-Craft/university-projects.git
 3. Navigate to the project directory and open the smart-burglar-alarm-project2
