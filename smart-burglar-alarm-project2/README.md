@@ -2,6 +2,9 @@
 ## Overview
 A Group Project where we combined software and hardware to create a fully functioning burglar alarm system with multiple settings.
 
+## Technologies
+C++, MATLAB, Arduino MEGA
+
 ## Installation
 1. Ensure MATLAB and Arduino IDE are installed.
 2.  Clone the repository:
