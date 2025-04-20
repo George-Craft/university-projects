@@ -14,6 +14,6 @@ C++, MATLAB, Arduino MEGA
 4. Launch the MATLAB file and the BASystem.ino file
 5. Run both whilst connected to the hardware system.
 
-**This project was done using a hardware system. It  will not operate correctly without it, however, the code is easy to follow and should allow a good understanding of the system**
+**This project was developed using a specific hardware setup and cannot function correctly without it. However, the code is structured clearly, making it easy to follow and should provide a solid understanding of the overall system.**
 ## Results
 Results can be found inside the results folder of this project.
