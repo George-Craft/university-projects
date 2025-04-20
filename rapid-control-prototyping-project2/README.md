@@ -16,3 +16,4 @@ MATLAB, Simulink, NI myDAQ, LabVIEW
 ## Results
 Results can be seen inside the project report in the results folder.
 
+![image](https://github.com/user-attachments/assets/a4b23928-ae43-4b0d-98f2-e97759fde61e)
