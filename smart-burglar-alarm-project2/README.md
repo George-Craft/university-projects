@@ -17,3 +17,4 @@ C++, MATLAB, Arduino MEGA
 **This project was developed using a specific hardware setup and cannot function correctly without it. However, the code is structured clearly, making it easy to follow and should provide a solid understanding of the overall system.**
 ## Results
 Results can be found inside the results folder of this project.
+![image](https://github.com/user-attachments/assets/67322029-ffde-4c46-be6d-ed60f72d4e4c)
