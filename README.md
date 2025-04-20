@@ -13,7 +13,7 @@ A Group Project where we combined software and hardware to create a fully functi
 ### 2. Rapid Control Prototyping of a Helicopter Model
 **Technologies:** MATLAB,Simulink, NI myDAQ, LabVIEW
 
-Developed and tested control strategies for a helicopter pitch, elevation and travel model. Designed simulated and real-world closed-loop control systems using MATLAB/Simulink, with system identification and real-time implementation.
+Developed and tested control strategies for a helicopter pitch, elevation and travel model. Designed simulated and real-world closed-loop control systems using MATLAB/Simulink, with state estimation and real-time implementation.
 
 
 ### 3. Machine Learning Regression Project
