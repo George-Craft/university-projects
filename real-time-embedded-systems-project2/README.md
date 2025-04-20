@@ -13,6 +13,7 @@ C++, STM32, Keil uVision
 4. Ensure the **correct STM32F4 toolchain** is installed.
 5. Build the project (`Project → Build Target`).
 6. Load it to your board or simulate it using Keil’s built-in debugger.
+
 **This project was developed using a specific hardware setup and cannot function correctly without it. However, the code is structured clearly, making it easy to follow and should provide a solid understanding of the overall system.**
 
 ## Results
